@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99c1fce2-d7a1-49b8-bab8-a00a03c787ba" name="Changes" comment="day_1">
-      <change afterPath="$PROJECT_DIR$/day_3/Builder_pattern/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/Builder_pattern/concrete_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/Builder_pattern/director.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/Builder_pattern/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/Builder_pattern/prod1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/interpreter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99c1fce2-d7a1-49b8-bab8-a00a03c787ba" name="Changes" comment="Final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +102,7 @@
       <updated>1750668895129</updated>
       <workItem from="1750668896176" duration="13656000" />
       <workItem from="1750747346755" duration="18604000" />
-      <workItem from="1750834518406" duration="5287000" />
+      <workItem from="1750834518406" duration="5904000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -176,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750835185434</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final">
+      <option name="closed" value="true" />
+      <created>1750860330562</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750860330562</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,13 +185,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="day_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day_1" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projekt1$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1750669387395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/Projekt1$singleton.coverage" NAME="singleton Coverage Results" MODIFIED="1750769568880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
-    <SUITE FILE_PATH="coverage/Projekt1$dekoratory.coverage" NAME="dekoratory Coverage Results" MODIFIED="1750681417715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/Projekt1$profilowanie_zad1.coverage" NAME="profilowanie_zad1 Coverage Results" MODIFIED="1750683367849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
+    <SUITE FILE_PATH="coverage/Projekt1$dekoratory.coverage" NAME="dekoratory Coverage Results" MODIFIED="1750681417715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/Projekt1$kl2.coverage" NAME="kl2 Coverage Results" MODIFIED="1750753393980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
     <SUITE FILE_PATH="coverage/Projekt1$kl6.coverage" NAME="kl6 Coverage Results" MODIFIED="1750767866618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
     <SUITE FILE_PATH="coverage/Projekt1$kolekcje.coverage" NAME="kolekcje Coverage Results" MODIFIED="1750675484347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
@@ -201,7 +202,7 @@
     <SUITE FILE_PATH="coverage/Projekt1$kl1.coverage" NAME="kl1 Coverage Results" MODIFIED="1750752696999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
     <SUITE FILE_PATH="coverage/Projekt1$funkcje.coverage" NAME="funkcje Coverage Results" MODIFIED="1750680209034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/Projekt1$kl3_metaklasa.coverage" NAME="kl3_metaklasa Coverage Results" MODIFIED="1750754883123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
-    <SUITE FILE_PATH="coverage/Projekt1$main.coverage" NAME="main Coverage Results" MODIFIED="1750759093655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2/deskryptory" />
+    <SUITE FILE_PATH="coverage/Projekt1$main.coverage" NAME="main Coverage Results" MODIFIED="1750846281559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_3/Builder_pattern" />
     <SUITE FILE_PATH="coverage/Projekt1$facade.coverage" NAME="facade Coverage Results" MODIFIED="1750772077540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
     <SUITE FILE_PATH="coverage/Projekt1$profilowanie_zad3.coverage" NAME="profilowanie_zad3 Coverage Results" MODIFIED="1750749058907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/Projekt1$kl4_slots.coverage" NAME="kl4_slots Coverage Results" MODIFIED="1750757483318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
